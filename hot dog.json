@@ -4,7 +4,7 @@
     "name": "Canadian Hot Dog",
     "propellant": "$100",
     "destination": "Alpha Centauri A",
-    "imageurl":"https://images.unsplash.com/photo-1627054248949-21f77275a15f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdCUyMGRvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WdSZ3b3egna-RaWcPGYt8ubqtlVw__xvaQ&usqp=CAU",
     "technologyexists": "1"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Indian Hot Dog",
     "propellant": "$99",
     "destination": "Venus",
-    "imageurl": "https://images.unsplash.com/photo-1612392061981-9d086fe894ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdCUyMGRvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQu2TNfYrQf50S7do-IEIawWFY4h8SisbCA&usqp=CAU",
     "technologyexists": "1"
   },
   {
